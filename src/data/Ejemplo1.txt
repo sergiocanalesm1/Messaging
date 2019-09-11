@@ -1,0 +1,4 @@
+numeroClientes:10
+numeroServidores:5
+numeroConsultas:3
+tamanoBuffer:20
